@@ -9,7 +9,7 @@ pip install python-instagram
 Requires
 -----
   * httplib2
-  * simplejson
+  * simplejson (optional in case you have Django >= 1.5, simplejson is not required)
 
 
 Instagram REST and Search APIs
